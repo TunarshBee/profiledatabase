@@ -1,0 +1,52 @@
+{
+    "client": [
+      {
+        "id": 1,
+        "name": "json-server",
+        "email": "typicode",
+        "subject": "some eplanation",
+        "message": "some message"
+      },
+      {
+        "{\"email\":\"bosunsola1@gmail.com\",\"subject\":\"DAILY REPORT\",\"message\":\"234ewedu\"}": "",
+        "id": 2
+      },
+      {
+        "email": "olawaleolajide811@gmail.com",
+        "subject": "DAILY REPORT",
+        "message": "adfghjkl",
+        "id": 3
+      },
+      {
+        "name": "ewewefqwef",
+        "email": "olawaleolajide811@gmail.com",
+        "subject": "DAILY REPORT",
+        "message": "qwerty",
+        "id": 4
+      },
+      {
+        "name": "",
+        "email": "",
+        "subject": "",
+        "message": "we are working properly",
+        "id": 5
+      },
+      {
+        "name": "ewewefqwef",
+        "email": "bosunola1@gmail.com",
+        "subject": "DAILY REPORT",
+        "message": "qwerty keyboard",
+        "id": 6
+      }
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "body": "some comment",
+        "postId": 1
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
